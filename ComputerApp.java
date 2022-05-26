@@ -8,7 +8,7 @@ import javax.swing.UIManager;
 
 /**
 *
-* @author 
+* @author 221760571_MAJEZI SA 
 */
 
 public class ComputerApp extends JFrame{
